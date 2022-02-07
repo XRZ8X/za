@@ -7,8 +7,8 @@ E = '\033[1;31m'
 G = '\033[1;32m'
 def HsEyUn():
 	
-	token = input(G+'Enter Token :')
-	id = input(G+'Enter Id : ')
+	token = input(G+'5164265237:AAEXC7vZb1fZwa8gslGI9OJ4NSlIL5G_3BA :')
+	id = input(G+'2053539816 ')
 	while True:
 		us3 = 'qwertyuiopasdf_ghjklzxcvbnm'
 		us0 = '09876_54321'
